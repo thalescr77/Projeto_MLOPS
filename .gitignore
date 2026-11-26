@@ -11,3 +11,6 @@ venv/
 /data/processed
 /models/candidate
 /reports/
+
+# Sistema operacional
+.DS_Store
